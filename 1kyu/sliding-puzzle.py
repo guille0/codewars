@@ -1,5 +1,6 @@
 # 1 kyu
 # Sliding Puzzle Solver
+# https://www.codewars.com/kata/sliding-puzzle-solver/python
 
 import numpy as np
 import queue
