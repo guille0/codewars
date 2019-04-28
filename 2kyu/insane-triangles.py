@@ -1,5 +1,6 @@
 # 2 kyu
 # Insane Coloured Triangles
+# https://www.codewars.com/kata/insane-coloured-triangles/python
 
 good_numbers = [1, 4, 10, 28, 82, 244, 730, 2188, 6562, 19684, 59050, 177148]
 
