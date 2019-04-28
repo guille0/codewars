@@ -1,5 +1,6 @@
 # 2 kyu
 # Break the pieces
+# https://www.codewars.com/kata/break-the-pieces/python
 
 # +------+-----+
 # |      |     |
