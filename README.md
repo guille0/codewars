@@ -4,6 +4,10 @@ https://www.codewars.com/users/guille0
 Codewars is a website that features coding challenges (called Katas) in many different languages.
 They are ranked from kyu 8 (easiest) to kyu 1 (hardest).
 
+Users also get a ranking from kyu beginner (kyu 7/8) to proficient (kyu 1/2).
+
+![alt text](https://raw.githubusercontent.com/guille0/codewars/blob/master/codewars.png)
+
 These are my solutions to some of my favourite katas.
 
 # 1 kyu:
