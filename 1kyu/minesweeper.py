@@ -1,5 +1,6 @@
 # 1 kyu
 # Mine Sweeper
+# https://www.codewars.com/kata/mine-sweeper/python
 
 import numpy as np
 import queue
